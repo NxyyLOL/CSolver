@@ -1,5 +1,5 @@
 // main.go
-package solver
+package CSolver
 
 import (
 	"bytes"
